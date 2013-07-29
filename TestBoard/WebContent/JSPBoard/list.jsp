@@ -29,8 +29,8 @@
        <td width="300" align="center">
         <a href="article.jsp">제목입니다</a>
        </td>
-       <td width="100" align="center">쏭</td>
-       <td width="100" align="center">2012-11-11</td>
+       <td width="100" align="center">지윤</td>
+       <td width="100" align="center">2013-06-01</td>
        <td width="100" align="center">5</td>
       </tr>
      </table>
